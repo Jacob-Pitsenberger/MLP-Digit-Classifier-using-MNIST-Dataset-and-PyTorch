@@ -1,4 +1,6 @@
 """
+Author: Jacob Pitsenberger
+Date: 12-21-23
 Module: load_and_visualize_data.py
 
 This module provides functions for downloading the MNIST dataset, loading data, and visualizing the images.

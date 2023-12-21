@@ -1,4 +1,6 @@
 """
+Author: Jacob Pitsenberger
+Date: 12-21-23
 Module: train.py
 
 This module provides functions for training a neural network using PyTorch. It includes functions for training with and

@@ -1,4 +1,6 @@
 """
+Author: Jacob Pitsenberger
+Date: 12-21-23
 Module: net.py
 
 This module defines the architecture of a neural network for digit classification. The network consists of three fully

@@ -1,4 +1,6 @@
 """
+Author: Jacob Pitsenberger
+Date: 12-21-23
 Module: predict.py
 
 This module provides functions for making predictions using trained neural network models. It includes a prediction
